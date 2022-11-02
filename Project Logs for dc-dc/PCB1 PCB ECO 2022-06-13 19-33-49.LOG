@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-6
+Removed Pin From Net: NetName=GND Pin=U1-9
+Added Component: Designator=C7(CAPACITOR-0805)
+Add component (AddParameter): Name = "Built_By"; Value = "Luka & Émile"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Luka & Émile"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A105KA8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "https://www.digikey.ca/product-detail/en/CL10A105KA8NNNC/1276-1102-1-ND/3889188/?itemSeq=321556777"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPACITOR-0805)
+Add component (AddParameter): Name = "Built_By"; Value = "Luka & Émile"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Luka & Émile"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A105KA8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "https://www.digikey.ca/product-detail/en/CL10A105KA8NNNC/1276-1102-1-ND/3889188/?itemSeq=321556777"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAPACITOR-0805)
+Add component (AddParameter): Name = "Built_By"; Value = "Luka & Émile"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Luka & Émile"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A105KA8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "https://www.digikey.ca/product-detail/en/CL10A105KA8NNNC/1276-1102-1-ND/3889188/?itemSeq=321556777"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPACITOR-0805)
+Add component (AddParameter): Name = "Built_By"; Value = "Luka & Émile"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Luka & Émile"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A105KA8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "https://www.digikey.ca/product-detail/en/CL10A105KA8NNNC/1276-1102-1-ND/3889188/?itemSeq=321556777"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAPACITOR-0805)
+Add component (AddParameter): Name = "Built_By"; Value = "Luka & Émile"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Luka & Émile"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A105KA8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "https://www.digikey.ca/product-detail/en/CL10A105KA8NNNC/1276-1102-1-ND/3889188/?itemSeq=321556777"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=VIN Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=VIN Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=VIN Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VIN Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=VIN Pin=C11-2
+Added Pin To Net: NetName=NetU1_4 Pin=U1-4
+Added Pin To Net: NetName=NetU1_4 Pin=U1-6
+Added Net: Name=NetU1_4
+Added Member To Class: ClassName=Sheet1 Member=Component C7 Capacitor SMD
+Added Member To Class: ClassName=Sheet1 Member=Component C8 Capacitor SMD
+Added Member To Class: ClassName=Sheet1 Member=Component C9 Capacitor SMD
+Added Member To Class: ClassName=Sheet1 Member=Component C10 Capacitor SMD
+Added Member To Class: ClassName=Sheet1 Member=Component C11 Capacitor SMD
