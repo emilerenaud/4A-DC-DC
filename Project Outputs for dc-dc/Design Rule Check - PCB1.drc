@@ -1,9 +1,12 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Emile\Google Drive\Projets\DC-DC\4A-DC-DC\PCB1.PcbDoc
 Date     : 2022-11-02
-Time     : 15:00:19
+Time     : 16:00:02
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.25mm) (InNet('GND')),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
